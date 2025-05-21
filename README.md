@@ -1,4 +1,4 @@
-![banner](assets/banner.png)
+![Header](./github-image-name.png)
 
 # 🩷 Hey there, I’m Laila! 🩷  
 *Computer Science Senior • Maker • Creative Explorer*
