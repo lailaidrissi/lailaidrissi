@@ -20,7 +20,7 @@ I’m passionate about blending code and creativity to build apps that connect p
 ---
 
 ## 🩷 Let’s Connect  
-[LinkedIn](https://linkedin.com/in/lailaidrissi)🩷  
+🔗 [LinkedIn](https://linkedin.com/in/lailaidrissi)🩷  
 ✉️ lailaemidrissi@vt.com 🩷
 
 ---
